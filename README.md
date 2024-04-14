@@ -1,2 +1,4 @@
-# odin-tic-tac-toe
-Project: Tic Tac Toe
+# Project: Tic Tac Toe
+My solution for the "Tic Tac Toe" project from The Odin Project.
+
+Live preview:
